@@ -15,10 +15,6 @@
 - **CSS** – Styling (if added)  
 - **JavaScript** – Core logic of the faulty calculator  
 
-## 📷 Preview
-
-*(Add a screenshot of your calculator UI here, if applicable)*  
-
 ## 📥 Installation & Usage
 
 1. Clone this repository using:  
