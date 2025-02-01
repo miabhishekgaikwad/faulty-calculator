@@ -23,4 +23,4 @@
 
 1. Clone this repository using:  
    ```bash
-   git clone https://github.com/your-username/faulty-calculator.git
+   git clone https://github.com/miabhishekgaikwad/faulty-calculator.git
